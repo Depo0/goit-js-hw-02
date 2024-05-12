@@ -1,4 +1,3 @@
-JavaScript
 function getShippingCost(country) {
   switch (country.toUpperCase()) {
     case "CHINA":
